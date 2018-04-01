@@ -1,0 +1,21 @@
+{
+  "name": "Protobuf-demo",
+  "version": "1.0.0",
+  "description": "可以这么理解，一种数据结构，由google 团队开发；",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimeisang/Protobuf-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimeisang/Protobuf-demo/issues"
+  },
+  "homepage": "https://github.com/guimeisang/Protobuf-demo#readme"
+}
